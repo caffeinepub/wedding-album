@@ -231,7 +231,7 @@ export default function GalleryPage() {
 
   const brideName = weddingInfo?.brideName || "Isabella";
   const groomName = weddingInfo?.groomName || "Alexander";
-  const weddingDate = weddingInfo?.weddingDate || "January 3, 2025";
+  const weddingDate = weddingInfo?.weddingDate || "May 6, 2025";
 
   return (
     <div className="min-h-screen bg-background">
